@@ -2,12 +2,11 @@ import json
 import string
 import csv
 seattle_ = {}
-csv_seattle = ['Seattle,WA,GHCND:US1WAKG0038']
-seattle_station_code = 'GHCND:US1WAKG0038'
-months = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
-with open ('stations.csv', encoding = 'utf-8') as file:
-   code_content = file.read() 
 
+csv_seattle = ['Seattle,WA,GHCND:US1WAKG0038']
+seattle_station_code = 'GHCND:US1WAKG0038' 
+months = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+ 
 seattle_data= []
 with open ('precipitation.json', 'r') as file: 
     contents= json.load(file) 
