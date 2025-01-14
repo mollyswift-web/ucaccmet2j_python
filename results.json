@@ -1,0 +1,38 @@
+{
+    "01": {
+        "total_monthly_precipitation": 1693
+    },
+    "02": {
+        "total_monthly_precipitation": 2423
+    },
+    "03": {
+        "total_monthly_precipitation": 3293
+    },
+    "04": {
+        "total_monthly_precipitation": 4045
+    },
+    "05": {
+        "total_monthly_precipitation": 4969
+    },
+    "06": {
+        "total_monthly_precipitation": 5570
+    },
+    "07": {
+        "total_monthly_precipitation": 5624
+    },
+    "08": {
+        "total_monthly_precipitation": 5728
+    },
+    "09": {
+        "total_monthly_precipitation": 6724
+    },
+    "10": {
+        "total_monthly_precipitation": 7632
+    },
+    "11": {
+        "total_monthly_precipitation": 8824
+    },
+    "12": {
+        "total_monthly_precipitation": 11180
+    }
+}
